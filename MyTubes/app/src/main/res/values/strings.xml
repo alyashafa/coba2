@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">maiNote</string>
+
+    <string name="nomor">No</string>
+    <string name="isi">Write your note here</string>
+    <string name="tgl">Date</string>
+    <string name="jdl">Title</string>
+    <string name="nama">Nama</string>
+
+    <string name="save">Simpan</string>
+    <string name="update">Update</string>
+    <string name="informasi">Aplikasi ini berisi daftar Kru Bajak Laut topi jerami. Digunakan untuk pendataan kru. Fitur yang dimiliki dapat menambah, update, dan hapus data kru topi jerami</string>
+    <string name="owner">Created By : Afan D Nat</string>
+    <string name="version">Version : 1.1</string>
+    <string name="email">Email : afandi.nat@gmail.com</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCoba</string>
+    <string name="no">No.</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="note">Your note</string>
+</resources>
